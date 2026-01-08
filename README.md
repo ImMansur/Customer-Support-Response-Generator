@@ -1,5 +1,3 @@
----
-
 # 🎧 Customer Support Response Generator
 
 A simple Python-based application that generates **professional customer support responses** using Azure OpenAI, with support for multiple support domains through external prompt templates.
