@@ -10,9 +10,9 @@ Generate customer support responses using Azure OpenAI
 
 Supports multiple support domains:
 
-General Support
-Technical Support
-Billing Support
+1. General Support
+2. Technical Support
+3. Billing Support
 
 Prompt templates stored as `.txt` files
 
